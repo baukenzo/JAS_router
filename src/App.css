@@ -86,3 +86,11 @@ img {
   line-height: 16px;
   color: #0FEFFD;
 }
+
+.nav a {
+  margin-right: 5px;
+}
+
+a {
+  text-decoration: none;
+}
